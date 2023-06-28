@@ -1,0 +1,15 @@
+G:\Razal\Toutorial\.NET\Practices\bin\Debug\net6.0\Practices.exe
+G:\Razal\Toutorial\.NET\Practices\bin\Debug\net6.0\Practices.deps.json
+G:\Razal\Toutorial\.NET\Practices\bin\Debug\net6.0\Practices.runtimeconfig.json
+G:\Razal\Toutorial\.NET\Practices\bin\Debug\net6.0\Practices.dll
+G:\Razal\Toutorial\.NET\Practices\bin\Debug\net6.0\Practices.pdb
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.csproj.AssemblyReference.cache
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.AssemblyInfoInputs.cache
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.AssemblyInfo.cs
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.csproj.CoreCompileInputs.cache
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.dll
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\refint\Practices.dll
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.pdb
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\Practices.genruntimeconfig.cache
+G:\Razal\Toutorial\.NET\Practices\obj\Debug\net6.0\ref\Practices.dll
